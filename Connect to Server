@@ -1,0 +1,6 @@
+# Part 2: Connect to the Web Server
+1. From the External Client Desktop, open the **Web Browser**.
+2. In the URL bar, type: `ciscolearn.web.com`.
+3. Observe the web page content.
+4. Minimize the External Client window but do not close it.
+5. Screenshot example: `../images/browser_page.png`

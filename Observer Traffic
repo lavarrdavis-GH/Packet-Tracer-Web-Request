@@ -1,0 +1,13 @@
+# Part 4: Observe Traffic Between Client and Web Server
+1. Enter **Simulation Mode**.
+2. Unlock the Simulation Panel for full network view.
+3. Set Filters: TCP and HTTP only.
+4. Create a **Complex PDU**:
+   - Source: External Client
+   - Destination: ciscolearn.web.com server
+   - Application: HTTP
+   - Starting Source Port: 1000
+   - Simulation Interval: 120 seconds
+5. Click **Create PDU** and then **Play** the simulation.
+6. Observe traffic flow, including TCP handshake and HTTP request/response.
+7. Screenshot example: `../images/simulation_traffic.png`

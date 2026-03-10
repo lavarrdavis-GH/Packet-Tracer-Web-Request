@@ -1,0 +1,6 @@
+# Part 3: View the HTML Code on the Server
+1. Click the `ciscolearn.web.com` server in the Logical Topology.
+2. Go to **Services > HTTP > index.html > Edit**.
+3. Compare the HTML markup code with the web page display on the External Client.
+4. Close both the External Client and Web Server windows.
+5. Optional: Save `index.html` in `files/`

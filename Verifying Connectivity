@@ -1,0 +1,6 @@
+# Part 1: Verify Connectivity to the Web Server
+1. Click **External Client** and open **Command Prompt**.
+2. Ping the server:
+3. Observe the IP address resolved from DNS.
+4. Close the Command Prompt but leave the Desktop window open.
+5. Screenshot example: `../images/ping_output.png`
